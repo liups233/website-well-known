@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mxext1.mailbox.org
-mx: mxext2.mailbox.org
-mx: mxext3.mailbox.org
+mx: mail.postale.io
 max_age: 2419200
