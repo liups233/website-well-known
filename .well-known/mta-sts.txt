@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: liups-net.m-v1.mx.microsoft
+max_age: 604800
