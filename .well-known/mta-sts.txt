@@ -1,4 +1,0 @@
-version: STSv1
-mode: enforce
-mx: mail.postale.io
-max_age: 2419200
